@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEziDqCM/76E77A9dBiTsYbIDCCMTQfv9ioo4GyIwH8V3o+RuHTSwmlRBikClkZKkn3bGKVpQUbZlfTSMQ7Ltg==",
+  "success": true,
+  "projectFilePath": "C:\\Siddhesh\\Gold\\com.gold\\com.gold.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

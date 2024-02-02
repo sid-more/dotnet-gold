@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: com.gold",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\com.gold\\com.gold.csproj",
+            "launchConfigurationId": "TargetFramework=;com.gold"
+        }
+    ]
+}

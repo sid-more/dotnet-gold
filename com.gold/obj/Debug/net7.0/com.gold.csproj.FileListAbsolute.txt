@@ -1,0 +1,14 @@
+C:\Siddhesh\Gold\com.gold\bin\Debug\net7.0\com.gold.exe
+C:\Siddhesh\Gold\com.gold\bin\Debug\net7.0\com.gold.deps.json
+C:\Siddhesh\Gold\com.gold\bin\Debug\net7.0\com.gold.runtimeconfig.json
+C:\Siddhesh\Gold\com.gold\bin\Debug\net7.0\com.gold.dll
+C:\Siddhesh\Gold\com.gold\bin\Debug\net7.0\com.gold.pdb
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\com.gold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\com.gold.AssemblyInfoInputs.cache
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\com.gold.AssemblyInfo.cs
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\com.gold.csproj.CoreCompileInputs.cache
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\com.gold.dll
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\refint\com.gold.dll
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\com.gold.pdb
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\com.gold.genruntimeconfig.cache
+C:\Siddhesh\Gold\com.gold\obj\Debug\net7.0\ref\com.gold.dll
